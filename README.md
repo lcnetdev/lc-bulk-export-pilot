@@ -1,6 +1,8 @@
 Please create any issues with the new bulk download pilot here.
 
 LCSH - Pilot
+
+We are testing a new bulk export process for LCSH and would like to hear any feedback from anyone who uses the bulk downloads. The new bulk files can be found http://id.loc.gov/download/ with the titles LC Subject Headings (LCSH) *NEW Pilot*
 ```
 New:
 - New compacted JSON-LD  serialization
@@ -17,7 +19,8 @@ Thinking of removing:
 - The current XML dump is one large XML file, the new XML is each record as RDF XML on its own individual line. The current XML file could be used for bulk loading into a triple store, but the current and future NT file could be used in the same way. Is anyone using the current XML dump file for bulk loading?
 - The Turtle serialization
 
+```
 Samples: 
 The first 10 records for MADSRDF & SKOS in all serializations:
 https://gist.github.com/thisismattmiller/0691f815478a5dc337e2e140becfc549
-```
+
