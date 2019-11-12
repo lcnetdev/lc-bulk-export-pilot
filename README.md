@@ -2,7 +2,7 @@ Please create any issues with the new bulk download pilot here.
 
 
 LCNAF - Pilot
-
+```
 New:
  - New compacted JSON-LD  serialization
  - The JSON-LD and XML files are now newline delimited meaning each line in the file is a completely self-contained record
@@ -17,6 +17,7 @@ The same:
 Thinking of removing:
  - The current XML dump is one large XML file, the new XML is each record as RDF XML on its own individual line. The current XML file could be used for bulk loading into a triple store, but the current and future NT file could be used in the same way. Is anyone using the current XML dump file for bulk loading?
  - The Turtle serialization
+```
 
 ---
 
