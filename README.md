@@ -2,6 +2,7 @@ Please create any issues with the new bulk download pilot here.
 
 
 LCNAF - Pilot
+We are testing a new bulk export process for LCSH and would like to hear any feedback from anyone who uses the bulk downloads. The new bulk files can be found http://id.loc.gov/download/ with the titles LC Subject Headings (LCSH) \*NEW Pilot\*
 ```
 New:
  - New compacted JSON-LD  serialization
@@ -24,7 +25,7 @@ Thinking of removing:
 
 LCSH - Pilot
 
-We are testing a new bulk export process for LCSH and would like to hear any feedback from anyone who uses the bulk downloads. The new bulk files can be found http://id.loc.gov/download/ with the titles LC Subject Headings (LCSH) *NEW Pilot*
+We are testing a new bulk export process for LCSH and would like to hear any feedback from anyone who uses the bulk downloads. The new bulk files can be found http://id.loc.gov/download/ with the titles LC Subject Headings (LCSH) \*NEW Pilot\*
 ```
 New:
 - New compacted JSON-LD  serialization
